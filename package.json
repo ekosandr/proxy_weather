@@ -10,7 +10,7 @@
     "nodemon": "^2.0.20"
   },
   "scripts": {
-    "start:backend": "nodemon index.js"
+    "start": "node index.js"
   },
   "devDependencies": {
     "stylelint": "^14.0.1",
